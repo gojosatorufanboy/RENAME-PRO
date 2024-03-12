@@ -1,3 +1,4 @@
+pip install eyed3
 Pillow
 humanize
 hachoir
